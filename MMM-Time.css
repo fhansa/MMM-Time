@@ -1,0 +1,25 @@
+.MMM-Time .timetable_wrapper {
+	width:100px;
+	padding-top:100px;
+}
+
+.MMM-Time .minute {
+	text-align: center;
+	font-size: 2em;
+}
+
+
+.MMM-Time .timetable {
+	border: 1px solid darkgray;
+	border-spacing: 2px;
+	width:100px;
+}
+.MMM-Time .red {
+	background-color: red;
+  }
+  .MMM-Time .empty {
+	background-color: darkslategray;
+  }
+.MMM-Time .timerow {
+	height: 30px;	
+}
